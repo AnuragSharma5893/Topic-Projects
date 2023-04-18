@@ -1,7 +1,10 @@
-# Topic-Projects
+# Topic-Projects :octocat:
 For Programming Noobs here are some important and easy topics and projects here's a list of programming topics and programs you can try to practice:
 
-# Topics:
+![Your github buddy](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
+# Topics: :neckbeard:
 
 * Data types and variables
 * Control structures (if/else, switch/case)
@@ -19,7 +22,7 @@ For Programming Noobs here are some important and easy topics and projects here'
 * GUI programming
 * Multithreading and concurrency
 
-# Programs:
+# Programs: 🚩
 
 * Calculator
 * Temperature converter
